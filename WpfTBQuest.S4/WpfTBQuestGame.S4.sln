@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTBQuestGame.S4", "WpfTBQuestGame.S4.csproj", "{08F37AC9-F2CB-44EE-9926-5C7BF3B45153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTBQuestGame.S3", "..\WpfTBQuestGame.S3\WpfTBQuestGame.S3\WpfTBQuestGame.S3.csproj", "{7F0AF7FB-329E-4BA8-8946-191CD6549A43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTBQuestGame.S2", "..\WpfTBQuestGame.S2\WpfTBQuestGame.S2.csproj", "{82DC7C07-2BA0-42EB-9EB0-E880910D537E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TBQuestGame", "..\WpfTBQuestGame.S1\TBQuestGame\TBQuestGame.csproj", "{C530E25D-1733-4131-B01E-99A486C1577E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08F37AC9-F2CB-44EE-9926-5C7BF3B45153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F37AC9-F2CB-44EE-9926-5C7BF3B45153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F37AC9-F2CB-44EE-9926-5C7BF3B45153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F37AC9-F2CB-44EE-9926-5C7BF3B45153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F0AF7FB-329E-4BA8-8946-191CD6549A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0AF7FB-329E-4BA8-8946-191CD6549A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0AF7FB-329E-4BA8-8946-191CD6549A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0AF7FB-329E-4BA8-8946-191CD6549A43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82DC7C07-2BA0-42EB-9EB0-E880910D537E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DC7C07-2BA0-42EB-9EB0-E880910D537E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82DC7C07-2BA0-42EB-9EB0-E880910D537E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DC7C07-2BA0-42EB-9EB0-E880910D537E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C530E25D-1733-4131-B01E-99A486C1577E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C530E25D-1733-4131-B01E-99A486C1577E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C530E25D-1733-4131-B01E-99A486C1577E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C530E25D-1733-4131-B01E-99A486C1577E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A5937F7-1C6E-4239-BE35-575D4CCDC018}
+	EndGlobalSection
+EndGlobal
